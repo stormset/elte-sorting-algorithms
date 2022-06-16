@@ -18,12 +18,12 @@ Compares the swap, key-comparison counts and runtimes of different sorting algor
     	-b                                  Use bubble sort.
     	-x                                  Use maximum selection sort.
 ```
-<br>**The files:**<br>
+<br>**Test files:**<br>
 ```test/big``` (10000 int in range [-1000..1000])<br>
 ```test/small``` (8 int in range [-1000..1000])<br>
 ```test/reversed``` (10000 int in range [-1000..1000] in reversed order)<br>
 ```test/sorted``` (10000 int in range [-1000..1000] already sorted)<br>
-can be used to compare how different algorithms behave with different kinds of input dataset.
+These can be used to compare **how different algorithms behave with different kinds of input dataset**.
 
 **Usage example:**
 
